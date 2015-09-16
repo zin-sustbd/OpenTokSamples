@@ -150,6 +150,7 @@ public class HelloWorldActivity extends Activity implements
     private void testGit(){
         System.out.print("git version test");
     }
+    private void testAnotherGit(){System.out.print("git version test");}
 
     @Override
     public void onResume() {
